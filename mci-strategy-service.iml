@@ -10,5 +10,7 @@
     <orderEntry type="library" name="com.corundumstudio.socketio:netty-socketio:1.7.10" level="project" />
     <orderEntry type="library" name="com.tictactec:ta-lib:0.4.0" level="project" />
     <orderEntry type="library" name="com.google.code.gson:gson:2.7" level="project" />
+    <orderEntry type="library" name="io.socket:socket.io-client:0.7.0" level="project" />
+    <orderEntry type="library" name="org.slf4j:slf4j-simple:1.6.1" level="project" />
   </component>
 </module>
