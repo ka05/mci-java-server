@@ -5,4 +5,5 @@ package com.mci.client;
  */
 public class SocketClient {
 
+    //TODO: write client class for Scott
 }
