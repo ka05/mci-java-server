@@ -1,12 +1,9 @@
-# mci-java-server
+# MCI Java Strategy Algorithm Server
 Java Socket IO Server for handling all Strategy and Stock Symbol processing
 
 
-Code in ServiceApp.java is all commented to hopefully walk you through the entire process.
+NOTE: Code in ServiceApp.java is commented to walk through the entire Socket.IO process.
 
-To run it click the green arrow at the top right of the IDEA IDE. 
-
-
-TODO: 
-
-- Write Java Client for Scott to test with.
+Run Instructions:
+- To run server open ServiceApp.java and click green arrow at the top right of the IDEA IDE. 
+- To run client open the SocketClient.java, right click on tab that says the filename and click run
