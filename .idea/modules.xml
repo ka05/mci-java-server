@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/mci-strategy-service.iml" filepath="$PROJECT_DIR$/mci-strategy-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mci-java-server.iml" filepath="$PROJECT_DIR$/mci-java-server.iml" />
     </modules>
   </component>
 </project>

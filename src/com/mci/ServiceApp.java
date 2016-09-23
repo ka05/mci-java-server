@@ -68,7 +68,7 @@ public class ServiceApp {
                         System.out.println("getSymbolDataFrame : Success");
 
                         //Acknowledge the request:
-                        ackRequest.sendAckData("ACK_test");
+                        ackRequest.sendAckData("getDataAcknowledgement");
 
                         // handle the "action" in the data object sent in
                         String responseToSend = handleDataAction(action, data);
@@ -91,7 +91,6 @@ public class ServiceApp {
                         System.out.println("Attempted Connection from unauthorized client id: " + id);
                     }
                 });
-
             }
         });
 
